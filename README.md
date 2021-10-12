@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahATidtsoft
 - 👀 I’m interested in Latte Macchiato
-- 🌱 I’m currently learning to code on Java an Python
+- 🌱 I’m currently learning to code on Java an Python. I developp software and apps
 - 💞️ I’m looking to collaborate on fun project
 - 📫 How to reach me ...
 
